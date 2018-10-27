@@ -19,4 +19,5 @@
     - 텍에서 특수기호(#, $, % 등)들은 대부분 평소처럼 그냥 넣을 수 없습니다. 강의 시간에 다룰 내용이지만, 이것을 넣기 위한 방법을 Google에서 검색하여 해결해 보셔도 좋습니다.
   - 중괄호 밖에서도, `\begin{document}`와 `\end{document}` 사이에서는 자유롭게 텍스트를 넣을 수 있습니다. 마찬가지로 텍스트를 직접 넣고 컴파일하여 오른쪽의 결과물이 어떻게 달라지는지 비교해보세요.
 
-<img src="./assets/img/overleaf.png" alt="Screen Shot 2018-10-27 at 3.36.21 PM" width="300"/>
+<img src="./assets/img/overleaf.png" alt="Screen Shot 2018-10-27 at 3.36.21 PM" width="300" align="center"/>
+
