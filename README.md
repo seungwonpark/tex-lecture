@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 강의 - "텍: 문서 작업 효율의 극대화."
 
-You can use the [editor on GitHub](https://github.com/seungwonpark/tex-lecture/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- 시간: 2018년 11월 5일(월) 19:00 - 21:00
+- 장소: 서울대학교 56동 105호
+- 과제: [웹페이지](http://swpark.me/tex-lecture/homework) / [PDF](http://swpark.me/tex-lecture/homework.pdf)
+- 강사: [박승원](http://swpark.me) (한국텍학회 실행스탭 since 2017)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 업데이트 사항
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seungwonpark/tex-lecture/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 여기에 강의 관련 업데이트가 올라올 예정입니다.
