@@ -1,6 +1,7 @@
 ## 강의 - 텍: 문서 작업 효율의 극대화.
 
 - 시간: 2018년 11월 5일(월) 19:00 - 21:00
+  - [기초과정 1시간 + 심화과정 1시간]으로 진행될 예정입니다.
 - 장소: 서울대학교 56동 105호
 - 예습 과제: [웹페이지](http://swpark.me/tex-lecture/homework) / [PDF](http://swpark.me/tex-lecture/homework.pdf)
 - 강사: [박승원](http://swpark.me) (한국텍학회 실행스탭 since 2017)
