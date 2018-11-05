@@ -11,7 +11,7 @@
 ## 업데이트 사항
 
 - (2018.11.05) 강의가 마무리되어 강의자료가 공개되었습니다! 강의에 와주신 분들꼐 감사드립니다.
-	- [Part 1](http://swpark.me/tex-lecture/tex-lecture-basic.pdf) | [Part 2](http://swpark.me/tex-lecture/tex-lecture-advanced.pdf)
+	- [Part 1](http://swpark.me/tex-lecture/tex-lecture-basic.pdf) / [Part 2](http://swpark.me/tex-lecture/tex-lecture-advanced.pdf)
 - (2018.11.01) 예습과제에서 [overleaf](overleaf.com)에 가입하라고 말씀드렸지만, 노트북에 texlive(Mac의 경우 MacTeX)와 함께 에디터(TeXstudio 등)가 이미 설치되어 있다면 overleaf에 가입해오실 필요는 없습니다.
 - (2018.10.30) 이미 말씀드렸지만, 강의실 사용 관련 교칙상 외부인은 수강이 어려운 점 양해 부탁드립니다.
 - (2018.10.30) 오해의 소지가 있는 것 같아 알려드립니다. 본 강의는 **무료**로 진행됩니다.
